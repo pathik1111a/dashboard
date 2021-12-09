@@ -8,7 +8,7 @@ module.exports = {
 	},
   bot: {
     name: '', // Bot Name
-    token: '', // Bot token if showing Stats
+    token: 'OTEzNjQ5NDk2MzA1NTk0Mzg4.YaBkZg.Qffs_-KzSZQ-S4eVmPAQ7JKwTo8', // Bot token if showing Stats
     logo: '', //Bot Logo used in embeds and favicon
     description: '', //description of your bot used in embed and website
     support: '', // support server url of your bot
